@@ -1,2 +1,2 @@
-waffle-test
+waffle_test
 ===========
