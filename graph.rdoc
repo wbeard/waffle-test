@@ -1,1 +1,1 @@
-{<img alt='Throughput Graph' src='https://graphs.waffle.io/kmanzana/waffle-test.svg' />}[https://waffle.io/kmanzana/waffle-test/metrics]
+{<img alt='Throughput Graph' src='https://graphs.waffle.io/kmanzana/waffle-test/throughput.svg' />}[https://waffle.io/kmanzana/waffle-test/metrics]
